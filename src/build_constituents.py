@@ -10,6 +10,7 @@ Source of the raw list: Wikipedia, FTSE 250 constituents after the 21 April
 """
 import csv
 import os
+import re
 
 HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW = os.path.join(HERE, "data", "constituents_raw.tsv")
@@ -19,9 +20,20 @@ FUND_SECTOR_HINTS = (
     "investment trust", "collective investments", "hedge funds",
     "equity investments", "general financial",
 )
-FUND_NAME_HINTS = (
-    "trust", "fund", " investments", "investment company", "vct",
-    "capital partners", "private equity", "infrastructure",
+# Name patterns use word boundaries so real operating companies are not caught
+# by an unlucky substring. "Trustpilot" is not a trust and "Funding Circle" is
+# not a fund, so plain "trust"/"fund" substrings are deliberately avoided.
+FUND_NAME_PATTERNS = (
+    r"\binvestment trust\b",
+    r"\binvestment company\b",
+    r"\bvct\b",
+    r"\bventures\b",
+    r"\binfrastructure\b",
+    r"\bcapital partners\b",
+    r"\bprivate equity\b",
+    r"\btrust$",
+    r"\bfund$",
+    r"\bfunds$",
 )
 
 
@@ -29,7 +41,7 @@ def is_fund(name: str, sector: str) -> bool:
     s, n = sector.lower(), name.lower()
     if any(h in s for h in FUND_SECTOR_HINTS):
         return True
-    if any(h in n for h in FUND_NAME_HINTS):
+    if any(re.search(p, n) for p in FUND_NAME_PATTERNS):
         return True
     return False
 
