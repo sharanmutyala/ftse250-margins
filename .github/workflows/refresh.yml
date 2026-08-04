@@ -1,0 +1,42 @@
+name: Refresh FTSE 250 margins
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"   # every Monday 06:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Rebuild constituents
+        run: python src/build_constituents.py
+
+      - name: Fetch margins
+        run: python src/fetch_margins.py --sleep 1.2
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/margins_history.csv data/margins_latest.csv data/constituents.csv data/fetch_log.txt
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Automated refresh: $(date -u +'%Y-%m-%d')"
+            git push
+          fi
