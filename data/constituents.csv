@@ -76,7 +76,7 @@ FirstGroup,FGP,FGP.L,Travel & Leisure,False
 Foresight Environmental Infrastructure,FGEN,FGEN.L,Investment Trusts,True
 Foresight Group,FSG,FSG.L,Investment Banking and Brokerage Services,False
 Frasers Group,FRAS,FRAS.L,Retailers,False
-Funding Circle,FCH,FCH.L,Financial Services,True
+Funding Circle,FCH,FCH.L,Financial Services,False
 Galliford Try,GFRD,GFRD.L,Construction,False
 Gamma Communications,GAMA,GAMA.L,Telecommunications,False
 GB Group,GBG,GBG.L,Software and Computer Services,False
@@ -133,7 +133,7 @@ JPMorgan Global Growth & Income,JGGI,JGGI.L,Investment Trusts,True
 JPMorgan India Growth & Income,JII,JII.L,Investment Trusts,True
 JPMorgan Japanese Investment Trust,JFJ,JFJ.L,Investment Trusts,True
 JTC,JTC,JTC.L,Financial Services,False
-Jupiter Fund Management,JUP,JUP.L,Financial Services,True
+Jupiter Fund Management,JUP,JUP.L,Financial Services,False
 Kainos,KNOS,KNOS.L,Software & Computer Services,False
 Keller Group,KLR,KLR.L,Construction & Materials,False
 Kier Group,KIE,KIE.L,Construction & Materials,False
@@ -147,7 +147,7 @@ Merchants Trust,MRCH,MRCH.L,Investment Trusts,True
 Metro Bank,MTRO,MTRO.L,Banks,False
 Mitchells & Butlers,MAB,MAB.L,Travel & Leisure,False
 Mitie,MTO,MTO.L,Support Services,False
-Molten Ventures,GROW,GROW.L,Financial Services,False
+Molten Ventures,GROW,GROW.L,Financial Services,True
 Monks Investment Trust,MNKS,MNKS.L,Investment Trusts,True
 MONY Group,MONY,MONY.L,Media,False
 Moonpig,MOON,MOON.L,Retailers,False
@@ -229,7 +229,7 @@ TP ICAP,TCAP,TCAP.L,Support Services,False
 Trainline,TRN,TRN.L,Industrial Transportation,False
 Travis Perkins,TPK,TPK.L,Support Services,False
 TR Property Investment Trust,TRY,TRY.L,Investment Trusts,True
-Trustpilot,TRST,TRST.L,Technology,True
+Trustpilot,TRST,TRST.L,Technology,False
 Twentyfour Income Fund,TFIF,TFIF.L,Investment Trusts,True
 Unite Group,UTG,UTG.L,Real estate investment trusts,True
 Utilico Emerging Markets,UEM,UEM.L,Investment Trusts,True
