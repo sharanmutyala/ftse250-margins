@@ -1,0 +1,251 @@
+name,epic,yahoo_ticker,sector,is_fund
+3i Infrastructure,3IN,3IN.L,Financial Services,True
+4imprint,FOUR,FOUR.L,Media,False
+Aberdeen Asia Focus,AAS,AAS.L,Investment Trusts,True
+Aberdeen Group,ABDN,ABDN.L,Financial Services,False
+Aberforth Smaller Companies Trust,ASL,ASL.L,Investment Trusts,True
+AEP Plantations,AEP,AEP.L,Food Producers,False
+Alfa Financial Software,ALFA,ALFA.L,Software and Computer Services,False
+Allianz Technology Trust,ATT,ATT.L,Investment Trusts,True
+AO World,AO,AO.L,Retail,False
+Applied Nutrition,APN,APN.L,Food Producers,False
+Ashmore Group,ASHM,ASHM.L,Financial Services,False
+Ashoka India Equity Investment Trust,AIE,AIE.L,Investment Trusts,True
+Aston Martin Lagonda,AML,AML.L,Automobiles & Parts,False
+Atalaya Mining,ATYM,ATYM.L,Industrial Metals and Mining,False
+AVI Global Trust,AGT,AGT.L,Investment Trusts,True
+Avon Technologies,AVON,AVON.L,Industrial Goods and Services,False
+B&M,BME,BME.L,Retailers,False
+Baillie Gifford Japan Trust,BGFD,BGFD.L,Investment Trusts,True
+Baillie Gifford US Growth Trust,USA,USA.L,Investment Trusts,True
+Balfour Beatty,BBY,BBY.L,Construction & Materials,False
+Baltic Classifieds,BCG,BCG.L,Consumer Digital Services,False
+Bankers Investment Trust,BNKR,BNKR.L,Investment Trusts,True
+A.G. Barr,BAG,BAG.L,Beverages,False
+AJ Bell,AJB,AJB.L,Financial Services,False
+Bellway,BWY,BWY.L,Home Construction,False
+BH Macro,BHMG,BHMG.L,Hedge Funds,True
+Big Yellow Group,BYG,BYG.L,Real Estate Investment Trusts,True
+Biopharma Credit,BPCR,BPCR.L,Investment Trusts,True
+BlackRock Greater Europe Investment Trust,BRGE,BRGE.L,Investment Trusts,True
+BlackRock Smaller Companies Trust,BRSC,BRSC.L,Investment Trusts,True
+BlackRock World Mining Trust,BRWM,BRWM.L,Investment Trusts,True
+Bluefield Solar Income Fund,BSIF,BSIF.L,Investment Trusts,True
+Bodycote,BOY,BOY.L,Industrial Engineering,False
+Breedon Group,BREE,BREE.L,Construction & Materials,False
+Bridgepoint Group,BPT,BPT.L,Financial Services,False
+Brunner Investment Trust,BUT,BUT.L,Investment Trusts,True
+Bytes Technology Group,BYIT,BYIT.L,Aerospace & Defence,False
+C&C Group,CCR,CCR.L,Food & Tobacco,False
+Caledonia Investments,CLDN,CLDN.L,Investment Trusts,True
+Capital Gearing Trust,CGT,CGT.L,Investment Trusts,True
+Carnival Corporation & plc,CCL,CCL.L,Travel & Leisure,False
+Ceres Power,CWR,CWR.L,Alternative Energy,False
+Chemring Group,CHG,CHG.L,Aerospace & Defence,False
+Chesnara,CSN,CSN.L,Life Insurance,False
+Chrysalis Investments,CHRY,CHRY.L,Investment Trusts,True
+City of London Investment Trust,CTY,CTY.L,Investment Trusts,True
+Clarkson,CKN,CKN.L,Industrial Transportation,False
+Close Brothers Group,CBG,CBG.L,Financial Services,False
+CMC Markets,CMCX,CMCX.L,Financial Services,False
+Coats Group,COA,COA.L,Consumer Staples,False
+Computacenter,CCC,CCC.L,Software & Computer Services,False
+Costain Group,COST,COST.L,Engineering and Construction,False
+Cranswick,CWK,CWK.L,Food Producers,False
+Currys,CURY,CURY.L,Retailers,False
+CVS Group,CVSG,CVSG.L,Health Care,False
+Derwent London,DLN,DLN.L,Real Estate Investment Trusts,True
+discoverIE,DSCV,DSCV.L,Support Services,False
+Domino's Pizza,DOM,DOM.L,Travel & Leisure,False
+Drax Group,DRX,DRX.L,Electricity,False
+Dr. Martens,DOCS,DOCS.L,Retailers,False
+Dunelm Group,DNLM,DNLM.L,Retailers,False
+EasyJet,EZJ,EZJ.L,Travel and Leisure,False
+Edinburgh Investment Trust,EDIN,EDIN.L,Investment Trusts,True
+Edinburgh Worldwide Investment Trust,EWI,EWI.L,Investment Trusts,True
+Elementis,ELM,ELM.L,Chemicals,False
+Energean,ENOG,ENOG.L,Oil & Gas Producers,False
+European Smaller Companies Trust,ESCT,ESCT.L,Investment Trusts,True
+Eurowag,EWG,EWG.L,Financial Services,False
+Fidelity China Special Situations,FCSS,FCSS.L,Investment Trusts,True
+Fidelity Emerging Markets,FEML,FEML.L,Investment Trusts,True
+Fidelity European Trust,FEV,FEV.L,Investment Trusts,True
+Fidelity Special Values,FSV,FSV.L,Investment Trusts,True
+Finsbury Growth & Income Trust,FGT,FGT.L,Equity Investments,True
+FirstGroup,FGP,FGP.L,Travel & Leisure,False
+Foresight Environmental Infrastructure,FGEN,FGEN.L,Investment Trusts,True
+Foresight Group,FSG,FSG.L,Investment Banking and Brokerage Services,False
+Frasers Group,FRAS,FRAS.L,Retailers,False
+Funding Circle,FCH,FCH.L,Financial Services,True
+Galliford Try,GFRD,GFRD.L,Construction,False
+Gamma Communications,GAMA,GAMA.L,Telecommunications,False
+GB Group,GBG,GBG.L,Software and Computer Services,False
+GCP Infrastructure Investments,GCP,GCP.L,General Financial,True
+Genuit Group,GEN,GEN.L,Construction & Materials,False
+Genus,GNS,GNS.L,Pharmaceuticals & Biotechnology,False
+Global Smaller Companies Trust,GSCT,GSCT.L,Investment Trusts,True
+Goodwin,GDWN,GDWN.L,General Industrials,False
+Grafton Group,GFTU,GFTU.L,Support Services,False
+Grainger,GRI,GRI.L,Real Estate Investment & Services,False
+Great Portland Estates,GPE,GPE.L,Real Estate Investment Trusts,True
+Greencoat UK Wind,UKW,UKW.L,"Gas, Water & Multiutilities",False
+Greencore,GNC,GNC.L,"Food, Beverage and Tobacco",False
+Greggs,GRG,GRG.L,Food & Drug Retailers,False
+Hammerson,HMSO,HMSO.L,Real Estate Investment Trusts,True
+Harbour Energy,HBR,HBR.L,Oil & Gas Producers,False
+HarbourVest Global Private Equity,HVPE,HVPE.L,Equity Investments,True
+Harworth Group,HWG,HWG.L,Real Estate,False
+Hays,HAS,HAS.L,Support Services,False
+Helios Towers,HTWS,HTWS.L,Telecomms,False
+Henderson Far East Income,HFEL,HFEL.L,Investment Trusts,True
+Henderson Smaller Companies Investment Trust,HSL,HSL.L,Investment Trusts,True
+Herald Investment Trust,HRI,HRI.L,Investment Trusts,True
+Hg Capital Trust,HGT,HGT.L,Investment Trusts,True
+HICL Infrastructure Company,HICL,HICL.L,Investment Trusts,True
+Hikma Pharmaceuticals,HIK,HIK.L,Pharmaceuticals and Biotechnology,False
+Hill & Smith,HILS,HILS.L,Industrial Engineering,False
+Hilton Food Group,HFG,HFG.L,Food Producers,False
+Hochschild Mining,HOC,HOC.L,Basic Resources,False
+Hollywood Bowl Group,BOWL,BOWL.L,Travel and leisure,False
+Hunting,HTG,HTG.L,"Oil, Gas and Coal",False
+Ibstock,IBST,IBST.L,Construction & Materials,False
+ICG Enterprise Trust,ICGT,ICGT.L,Investment Trusts,True
+Impax Environmental Markets,IEM,IEM.L,Investment Trusts,True
+Inchcape,INCH,INCH.L,Retailers,False
+IntegraFin Holdings,IHP,IHP.L,Financial Services,False
+International Personal Finance,IPF,IPF.L,Financial Services,False
+International Public Partnerships,INPP,INPP.L,Financial Services,False
+International Workplace Group,IWG,IWG.L,Support Services,False
+Invesco Asia Dragon Trust,IAD,IAD.L,Investment Trusts,True
+Investec,INVP,INVP.L,Financial Services,False
+IP Group,IPO,IPO.L,Financial Services,False
+Ithaca Energy,ITH,ITH.L,Oil & Gas Producers,False
+ITV,ITV,ITV.L,Media,False
+Johnson Matthey,JMAT,JMAT.L,Chemicals,False
+Johnson Service Group,JSG,JSG.L,Industrial Support Services,False
+JPMorgan American Investment Trust,JAM,JAM.L,Investment Trusts,True
+JPMorgan Claverhouse Investment Trust,JCH,JCH.L,Investment Trusts,True
+JPMorgan Emerging Markets Dividend Income,JEMI,JEMI.L,Investment Trusts,True
+JPMorgan Emerging Markets Growth & Income,JMG,JMG.L,Investment Trusts,True
+JPMorgan European Discovery,JEDT,JEDT.L,Investment Trusts,True
+JPMorgan European Growth & Income,JEGI,JEGI.L,Investment Trusts,True
+JPMorgan Global Growth & Income,JGGI,JGGI.L,Investment Trusts,True
+JPMorgan India Growth & Income,JII,JII.L,Investment Trusts,True
+JPMorgan Japanese Investment Trust,JFJ,JFJ.L,Investment Trusts,True
+JTC,JTC,JTC.L,Financial Services,False
+Jupiter Fund Management,JUP,JUP.L,Financial Services,True
+Kainos,KNOS,KNOS.L,Software & Computer Services,False
+Keller Group,KLR,KLR.L,Construction & Materials,False
+Kier Group,KIE,KIE.L,Construction & Materials,False
+Lancashire Holdings,LRE,LRE.L,Nonlife Insurance,False
+Law Debenture,LWDB,LWDB.L,Investment Trusts,True
+Man Group,EMG,EMG.L,Investment Trusts,True
+Marshalls,MSLH,MSLH.L,Construction & Materials,False
+ME Group International,MEGP,MEGP.L,Leisure Goods,False
+Mercantile Investment Trust,MRC,MRC.L,Collective Investments,True
+Merchants Trust,MRCH,MRCH.L,Investment Trusts,True
+Metro Bank,MTRO,MTRO.L,Banks,False
+Mitchells & Butlers,MAB,MAB.L,Travel & Leisure,False
+Mitie,MTO,MTO.L,Support Services,False
+Molten Ventures,GROW,GROW.L,Financial Services,False
+Monks Investment Trust,MNKS,MNKS.L,Investment Trusts,True
+MONY Group,MONY,MONY.L,Media,False
+Moonpig,MOON,MOON.L,Retailers,False
+Morgan Advanced Materials,MGAM,MGAM.L,Electronic & Electrical Equipment,False
+Morgan Sindall Group,MGNS,MGNS.L,Construction & Materials,False
+Murray Income Trust,MUT,MUT.L,Investment Trusts,True
+Murray International Trust,MYI,MYI.L,Investment Trusts,True
+NB Private Equity Partners,NBPE,NBPE.L,Collective Investments,True
+NCC Group,NCC,NCC.L,Software and Computer Services,False
+Ninety One,N91,N91.L,Financial Services,False
+North Atlantic Smaller Companies Investment Trust,NAS,NAS.L,Investment Trusts,True
+Oakley Capital Investments,OCI,OCI.L,Investment Trusts,True
+Ocado Group,OCDO,OCDO.L,Food & drug retailers,False
+OSB Group,OSB,OSB.L,Banks,False
+Oxford Biomedica,OXB,OXB.L,Pharmaceuticals and Biotechnology,False
+Oxford Instruments,OXIG,OXIG.L,Electronic & Electrical Equipment,False
+Oxford Nanopore Technologies,ONT,ONT.L,Health Care,False
+Pacific Horizon Investment Trust,PHI,PHI.L,Investment Trusts,True
+PageGroup,PAGE,PAGE.L,Support Services,False
+Pan African Resources,PAF,PAF.L,Precious Metals and Mining,False
+Pantheon Infrastructure,PINT,PINT.L,Investment Trusts,True
+Pantheon International,PIN,PIN.L,Equity Investments,True
+Paragon Banking Group,PAG,PAG.L,Financial Services,False
+Partners Group Private Equity,PEY,PEY.L,Investment Trusts,True
+Patria Private Equity Trust,PPET,PPET.L,Financial Services,True
+Pennon Group,PNN,PNN.L,"Gas, Water & Multiutilities",False
+Personal Assets Trust,PNL,PNL.L,Investment Trusts,True
+Pets at Home,PETS,PETS.L,Retailers,False
+Playtech,PTEC,PTEC.L,Software & Computer Services,False
+Plus500,PLUS,PLUS.L,Financial Services,False
+Polar Capital Global Healthcare Trust,PCGH,PCGH.L,Investment Trusts,True
+Pollen Street Group,POLN,POLN.L,Financial Services,False
+PPHE Hotel Group,PPH,PPH.L,Travel and Leisure,False
+Premier Foods,PFD,PFD.L,Food & Drug Retailers,False
+Primary Health Properties,PHP,PHP.L,Real Estate Investment Trusts,True
+Princes Group,PRN,PRN.L,Food and drink,False
+Qinetiq,QQ,QQ.L,Aerospace & Defence,False
+Quilter,QLT,QLT.L,Financial Services,False
+Rank Group,RNK,RNK.L,Travel and Leisure,False
+Raspberry Pi Holdings,RPI,RPI.L,Technology,False
+Rathbones,RAT,RAT.L,Financial Services,False
+Renishaw,RSW,RSW.L,Electronic & Electrical Equipment,False
+RHI Magnesita,RHIM,RHIM.L,Support Services,False
+RIT Capital Partners,RCP,RCP.L,Investment Trusts,True
+Rotork,ROR,ROR.L,Industrial Engineering,False
+RS Group,RS1,RS1.L,Industrials,False
+RTW Biotech Opportunities,RTW,RTW.L,Investment Trusts,True
+Ruffer Investment Company,RICA,RICA.L,Investment Trusts,True
+Safestore,SAFE,SAFE.L,Real Estate Investment Trusts,True
+Saga,SAGA,SAGA.L,Travel and Leisure,False
+Savills,SVS,SVS.L,Real Estate Investment & Services,False
+Schiehallion Fund,MNTN,MNTN.L,Investment Trusts,True
+Schroder Asian Total Return Investment Company,ATR,ATR.L,Investment Trusts,True
+Schroder AsiaPacific Fund,SDP,SDP.L,Investment Trusts,True
+Schroder Oriental Income Fund,SOI,SOI.L,Financial Services,True
+Scottish American Investment Company,SAIN,SAIN.L,Investment Trusts,True
+SDCL Energy Efficiency Income Trust,SEIT,SEIT.L,Energy,True
+Senior,SNR,SNR.L,Aerospace & Defence,False
+Sequoia Economic Infrastructure Income Fund,SEQI,SEQI.L,Financial Services,True
+Serco,SRP,SRP.L,Support Services,False
+Shaftesbury Capital,SHC,SHC.L,Real Estate Investment Trusts,True
+Shawbrook Bank,SHAW,SHAW.L,Banking,False
+Sirius Real Estate,SRE,SRE.L,Real Estate,False
+Softcat,SCT,SCT.L,Software & Computer Services,False
+Spire Healthcare,SPI,SPI.L,Health Care Equipment & Services,False
+SSP Group,SSPG,SSPG.L,Retailers,False
+Supermarket Income REIT,SUPR,SUPR.L,Real Estate Investment Trusts,True
+Syncona,SYNC,SYNC.L,Pharmaceuticals & Biotechnology,False
+Target Healthcare REIT,THRL,THRL.L,Real Estate Investment Trusts,True
+Tate & Lyle,TATE,TATE.L,Food Producers,False
+Taylor Wimpey,TW,TW.L,Household goods & home construction,False
+TBC Bank,TBCG,TBCG.L,Banks,False
+Telecom Plus,TEP,TEP.L,Telecomms,False
+Temple Bar Investment Trust,TMPL,TMPL.L,Collective Investments,True
+Templeton Emerging Markets Investment Trust,TEM,TEM.L,Investment Trusts,True
+The Renewables Infrastructure Group,TRIG,TRIG.L,Investment Trusts,True
+THG,THG,THG.L,Personal Products,False
+TP ICAP,TCAP,TCAP.L,Support Services,False
+Trainline,TRN,TRN.L,Industrial Transportation,False
+Travis Perkins,TPK,TPK.L,Support Services,False
+TR Property Investment Trust,TRY,TRY.L,Investment Trusts,True
+Trustpilot,TRST,TRST.L,Technology,True
+Twentyfour Income Fund,TFIF,TFIF.L,Investment Trusts,True
+Unite Group,UTG,UTG.L,Real estate investment trusts,True
+Utilico Emerging Markets,UEM,UEM.L,Investment Trusts,True
+Vesuvius,VSVS,VSVS.L,General Industrials,False
+Victrex,VCT,VCT.L,Chemicals,False
+Vietnam Enterprise Investments,VEIL,VEIL.L,General Financial,True
+VinaCapital Vietnam Opportunity Fund,VOF,VOF.L,General Financial,True
+Vistry Group,VTY,VTY.L,Home Construction,False
+Volution Group,FAN,FAN.L,Construction & Materials,False
+Watches of Switzerland,WOSG,WOSG.L,Personal Goods,False
+Wetherspoons,JDW,JDW.L,Travel & Leisure,False
+WHSmith,SMWH,SMWH.L,Retailers,False
+Wickes,WIX,WIX.L,Retailers,False
+Wizz Air,WIZZ,WIZZ.L,Travel & Leisure,False
+Workspace Group,WKP,WKP.L,Real Estate Investment Trusts,True
+Worldwide Healthcare Trust,WWH,WWH.L,Investment Trusts,True
+WPP,WPP,WPP.L,Media,False
+XPS Pensions,XPS,XPS.L,Financial Services,False
+Zigup,ZIG,ZIG.L,Support Services,False
