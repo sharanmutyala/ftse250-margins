@@ -1,161 +1,161 @@
-2026-08-04T23:01:10Z  Starting fetch of 153 companies
-2026-08-04T23:01:11Z  OK   FOUR.L   4imprint                         4 years
-2026-08-04T23:01:12Z  OK   ABDN.L   Aberdeen Group                   4 years
-2026-08-04T23:01:13Z  OK   AEP.L    AEP Plantations                  4 years
-2026-08-04T23:01:15Z  OK   ALFA.L   Alfa Financial Software          4 years
-2026-08-04T23:01:16Z  OK   AO.L     AO World                         4 years
-2026-08-04T23:01:18Z  OK   APN.L    Applied Nutrition                4 years
-2026-08-04T23:01:19Z  OK   ASHM.L   Ashmore Group                    4 years
-2026-08-04T23:01:21Z  OK   AML.L    Aston Martin Lagonda             4 years
-2026-08-04T23:01:22Z  OK   ATYM.L   Atalaya Mining                   4 years
-2026-08-04T23:01:24Z  OK   AVON.L   Avon Technologies                4 years
-2026-08-04T23:01:25Z  OK   BME.L    B&M                              4 years
-2026-08-04T23:01:26Z  OK   BBY.L    Balfour Beatty                   4 years
-2026-08-04T23:01:28Z  OK   BCG.L    Baltic Classifieds               4 years
-2026-08-04T23:01:29Z  OK   BAG.L    A.G. Barr                        4 years
-2026-08-04T23:01:31Z  OK   AJB.L    AJ Bell                          4 years
-2026-08-04T23:01:32Z  OK   BWY.L    Bellway                          3 years
-2026-08-04T23:01:34Z  OK   BOY.L    Bodycote                         4 years
-2026-08-04T23:01:35Z  OK   BREE.L   Breedon Group                    4 years
-2026-08-04T23:01:37Z  OK   BPT.L    Bridgepoint Group                4 years
-2026-08-04T23:01:38Z  OK   BYIT.L   Bytes Technology Group           4 years
-2026-08-04T23:01:39Z  OK   CCR.L    C&C Group                        4 years
-2026-08-04T23:01:47Z  FAIL CCL.L    Carnival Corporation & plc       empty income statement
-2026-08-04T23:01:48Z  OK   CWR.L    Ceres Power                      4 years
-2026-08-04T23:01:50Z  OK   CHG.L    Chemring Group                   4 years
-2026-08-04T23:01:51Z  OK   CSN.L    Chesnara                         4 years
-2026-08-04T23:01:51Z  ...progress 25/153 (ok 24, fail 1)
-2026-08-04T23:01:52Z  OK   CKN.L    Clarkson                         4 years
-2026-08-04T23:01:54Z  OK   CBG.L    Close Brothers Group             3 years
-2026-08-04T23:01:55Z  OK   CMCX.L   CMC Markets                      4 years
-2026-08-04T23:01:57Z  OK   COA.L    Coats Group                      4 years
-2026-08-04T23:01:58Z  OK   CCC.L    Computacenter                    4 years
-2026-08-04T23:02:00Z  OK   COST.L   Costain Group                    4 years
-2026-08-04T23:02:01Z  OK   CWK.L    Cranswick                        4 years
-2026-08-04T23:02:03Z  OK   CURY.L   Currys                           4 years
-2026-08-04T23:02:04Z  OK   CVSG.L   CVS Group                        3 years
-2026-08-04T23:02:05Z  OK   DSCV.L   discoverIE                       4 years
-2026-08-04T23:02:07Z  OK   DOM.L    Domino's Pizza                   4 years
-2026-08-04T23:02:08Z  OK   DRX.L    Drax Group                       4 years
-2026-08-04T23:02:10Z  OK   DOCS.L   Dr. Martens                      4 years
-2026-08-04T23:02:11Z  OK   DNLM.L   Dunelm Group                     4 years
-2026-08-04T23:02:13Z  OK   EZJ.L    EasyJet                          4 years
-2026-08-04T23:02:14Z  OK   ELM.L    Elementis                        4 years
-2026-08-04T23:02:15Z  OK   ENOG.L   Energean                         4 years
-2026-08-04T23:02:17Z  OK   EWG.L    Eurowag                          4 years
-2026-08-04T23:02:18Z  OK   FGP.L    FirstGroup                       4 years
-2026-08-04T23:02:20Z  OK   FSG.L    Foresight Group                  4 years
-2026-08-04T23:02:21Z  OK   FRAS.L   Frasers Group                    4 years
-2026-08-04T23:02:23Z  OK   FCH.L    Funding Circle                   4 years
-2026-08-04T23:02:24Z  OK   GFRD.L   Galliford Try                    4 years
-2026-08-04T23:02:26Z  OK   GAMA.L   Gamma Communications             4 years
-2026-08-04T23:02:27Z  OK   GBG.L    GB Group                         4 years
-2026-08-04T23:02:27Z  ...progress 50/153 (ok 49, fail 1)
-2026-08-04T23:02:29Z  OK   GEN.L    Genuit Group                     4 years
-2026-08-04T23:02:30Z  OK   GNS.L    Genus                            4 years
-2026-08-04T23:02:31Z  OK   GDWN.L   Goodwin                          4 years
-2026-08-04T23:02:33Z  OK   GFTU.L   Grafton Group                    4 years
-2026-08-04T23:02:34Z  OK   GRI.L    Grainger                         4 years
-2026-08-04T23:02:36Z  OK   UKW.L    Greencoat UK Wind                4 years
-2026-08-04T23:02:37Z  OK   GNC.L    Greencore                        4 years
-2026-08-04T23:02:39Z  OK   GRG.L    Greggs                           4 years
-2026-08-04T23:02:40Z  OK   HBR.L    Harbour Energy                   4 years
-2026-08-04T23:02:42Z  OK   HWG.L    Harworth Group                   4 years
-2026-08-04T23:02:43Z  OK   HAS.L    Hays                             3 years
-2026-08-04T23:02:45Z  OK   HTWS.L   Helios Towers                    4 years
-2026-08-04T23:02:46Z  OK   HIK.L    Hikma Pharmaceuticals            4 years
-2026-08-04T23:02:47Z  OK   HILS.L   Hill & Smith                     4 years
-2026-08-04T23:02:49Z  OK   HFG.L    Hilton Food Group                4 years
-2026-08-04T23:02:50Z  OK   HOC.L    Hochschild Mining                4 years
-2026-08-04T23:02:52Z  OK   BOWL.L   Hollywood Bowl Group             4 years
-2026-08-04T23:02:53Z  OK   HTG.L    Hunting                          4 years
-2026-08-04T23:02:55Z  OK   IBST.L   Ibstock                          4 years
-2026-08-04T23:02:56Z  OK   INCH.L   Inchcape                         4 years
-2026-08-04T23:02:58Z  OK   IHP.L    IntegraFin Holdings              4 years
-2026-08-04T23:02:59Z  OK   IPF.L    International Personal Finance   4 years
-2026-08-04T23:03:01Z  OK   INPP.L   International Public Partnership 4 years
-2026-08-04T23:03:02Z  OK   IWG.L    International Workplace Group    4 years
-2026-08-04T23:03:03Z  OK   INVP.L   Investec                         4 years
-2026-08-04T23:03:03Z  ...progress 75/153 (ok 74, fail 1)
-2026-08-04T23:03:05Z  OK   IPO.L    IP Group                         4 years
-2026-08-04T23:03:06Z  OK   ITH.L    Ithaca Energy                    4 years
-2026-08-04T23:03:08Z  OK   ITV.L    ITV                              4 years
-2026-08-04T23:03:09Z  OK   JMAT.L   Johnson Matthey                  4 years
-2026-08-04T23:03:11Z  OK   JSG.L    Johnson Service Group            4 years
-2026-08-04T23:03:12Z  OK   JTC.L    JTC                              4 years
-2026-08-04T23:03:13Z  OK   JUP.L    Jupiter Fund Management          4 years
-2026-08-04T23:03:15Z  OK   KNOS.L   Kainos                           4 years
-2026-08-04T23:03:16Z  OK   KLR.L    Keller Group                     4 years
-2026-08-04T23:03:18Z  OK   KIE.L    Kier Group                       3 years
-2026-08-04T23:03:19Z  OK   LRE.L    Lancashire Holdings              4 years
-2026-08-04T23:03:21Z  OK   MSLH.L   Marshalls                        4 years
-2026-08-04T23:03:22Z  OK   MEGP.L   ME Group International           4 years
-2026-08-04T23:03:24Z  OK   MTRO.L   Metro Bank                       4 years
-2026-08-04T23:03:25Z  OK   MAB.L    Mitchells & Butlers              4 years
-2026-08-04T23:03:26Z  OK   MTO.L    Mitie                            4 years
-2026-08-04T23:03:28Z  OK   MONY.L   MONY Group                       4 years
-2026-08-04T23:03:29Z  OK   MOON.L   Moonpig                          4 years
-2026-08-04T23:03:31Z  OK   MGAM.L   Morgan Advanced Materials        4 years
-2026-08-04T23:03:32Z  OK   MGNS.L   Morgan Sindall Group             4 years
-2026-08-04T23:03:34Z  OK   NCC.L    NCC Group                        3 years
-2026-08-04T23:03:35Z  OK   N91.L    Ninety One                       4 years
-2026-08-04T23:03:37Z  OK   OCDO.L   Ocado Group                      4 years
-2026-08-04T23:03:38Z  OK   OSB.L    OSB Group                        4 years
-2026-08-04T23:03:39Z  OK   OXB.L    Oxford Biomedica                 4 years
-2026-08-04T23:03:39Z  ...progress 100/153 (ok 99, fail 1)
-2026-08-04T23:03:41Z  OK   OXIG.L   Oxford Instruments               4 years
-2026-08-04T23:03:42Z  OK   ONT.L    Oxford Nanopore Technologies     4 years
-2026-08-04T23:03:44Z  OK   PAGE.L   PageGroup                        4 years
-2026-08-04T23:03:45Z  OK   PAF.L    Pan African Resources            4 years
-2026-08-04T23:03:47Z  OK   PAG.L    Paragon Banking Group            4 years
-2026-08-04T23:03:48Z  OK   PNN.L    Pennon Group                     4 years
-2026-08-04T23:03:50Z  OK   PETS.L   Pets at Home                     4 years
-2026-08-04T23:03:51Z  OK   PTEC.L   Playtech                         4 years
-2026-08-04T23:03:52Z  OK   PLUS.L   Plus500                          4 years
-2026-08-04T23:03:54Z  OK   POLN.L   Pollen Street Group              4 years
-2026-08-04T23:03:55Z  OK   PPH.L    PPHE Hotel Group                 4 years
-2026-08-04T23:03:57Z  OK   PFD.L    Premier Foods                    4 years
-2026-08-04T23:03:58Z  OK   PRN.L    Princes Group                    4 years
-2026-08-04T23:04:00Z  OK   QQ.L     Qinetiq                          4 years
-2026-08-04T23:04:01Z  OK   QLT.L    Quilter                          4 years
-2026-08-04T23:04:03Z  OK   RNK.L    Rank Group                       4 years
-2026-08-04T23:04:04Z  OK   RPI.L    Raspberry Pi Holdings            4 years
-2026-08-04T23:04:05Z  OK   RAT.L    Rathbones                        4 years
-2026-08-04T23:04:07Z  OK   RSW.L    Renishaw                         3 years
-2026-08-04T23:04:08Z  OK   RHIM.L   RHI Magnesita                    4 years
-2026-08-04T23:04:10Z  OK   ROR.L    Rotork                           4 years
-2026-08-04T23:04:11Z  OK   RS1.L    RS Group                         4 years
-2026-08-04T23:04:13Z  OK   SAGA.L   Saga                             4 years
-2026-08-04T23:04:14Z  OK   SVS.L    Savills                          4 years
-2026-08-04T23:04:16Z  OK   SNR.L    Senior                           4 years
-2026-08-04T23:04:16Z  ...progress 125/153 (ok 124, fail 1)
-2026-08-04T23:04:17Z  OK   SRP.L    Serco                            4 years
-2026-08-04T23:04:18Z  OK   SHAW.L   Shawbrook Bank                   3 years
-2026-08-04T23:04:20Z  OK   SRE.L    Sirius Real Estate               4 years
-2026-08-04T23:04:21Z  OK   SCT.L    Softcat                          3 years
-2026-08-04T23:04:23Z  OK   SPI.L    Spire Healthcare                 4 years
-2026-08-04T23:04:24Z  OK   SSPG.L   SSP Group                        4 years
-2026-08-04T23:04:26Z  OK   SYNC.L   Syncona                          4 years
-2026-08-04T23:04:27Z  OK   TATE.L   Tate & Lyle                      4 years
-2026-08-04T23:04:29Z  OK   TW.L     Taylor Wimpey                    4 years
-2026-08-04T23:04:30Z  OK   TBCG.L   TBC Bank                         4 years
-2026-08-04T23:04:32Z  OK   TEP.L    Telecom Plus                     4 years
-2026-08-04T23:04:33Z  OK   THG.L    THG                              4 years
-2026-08-04T23:04:34Z  OK   TCAP.L   TP ICAP                          4 years
-2026-08-04T23:04:36Z  OK   TRN.L    Trainline                        4 years
-2026-08-04T23:04:37Z  OK   TPK.L    Travis Perkins                   4 years
-2026-08-04T23:04:39Z  OK   TRST.L   Trustpilot                       4 years
-2026-08-04T23:04:40Z  OK   VSVS.L   Vesuvius                         4 years
-2026-08-04T23:04:42Z  OK   VCT.L    Victrex                          4 years
-2026-08-04T23:04:43Z  OK   VTY.L    Vistry Group                     4 years
-2026-08-04T23:04:44Z  OK   FAN.L    Volution Group                   3 years
-2026-08-04T23:04:46Z  OK   WOSG.L   Watches of Switzerland           4 years
-2026-08-04T23:04:47Z  OK   JDW.L    Wetherspoons                     3 years
-2026-08-04T23:04:49Z  OK   SMWH.L   WHSmith                          4 years
-2026-08-04T23:04:50Z  OK   WIX.L    Wickes                           4 years
-2026-08-04T23:04:52Z  OK   WIZZ.L   Wizz Air                         4 years
-2026-08-04T23:04:52Z  ...progress 150/153 (ok 149, fail 1)
-2026-08-04T23:04:53Z  OK   WPP.L    WPP                              4 years
-2026-08-04T23:04:54Z  OK   XPS.L    XPS Pensions                     4 years
-2026-08-04T23:04:56Z  OK   ZIG.L    Zigup                            4 years
-2026-08-04T23:04:57Z  Done. companies ok 152, failed 1, rows 597
+2026-08-09T21:14:01Z  Starting fetch of 153 companies
+2026-08-09T21:14:02Z  OK   FOUR.L   4imprint                         4 years
+2026-08-09T21:14:03Z  OK   ABDN.L   Aberdeen Group                   4 years
+2026-08-09T21:14:05Z  OK   AEP.L    AEP Plantations                  4 years
+2026-08-09T21:14:06Z  OK   ALFA.L   Alfa Financial Software          4 years
+2026-08-09T21:14:08Z  OK   AO.L     AO World                         4 years
+2026-08-09T21:14:09Z  OK   APN.L    Applied Nutrition                4 years
+2026-08-09T21:14:11Z  OK   ASHM.L   Ashmore Group                    4 years
+2026-08-09T21:14:12Z  OK   AML.L    Aston Martin Lagonda             4 years
+2026-08-09T21:14:14Z  OK   ATYM.L   Atalaya Mining                   4 years
+2026-08-09T21:14:15Z  OK   AVON.L   Avon Technologies                4 years
+2026-08-09T21:14:17Z  OK   BME.L    B&M                              4 years
+2026-08-09T21:14:18Z  OK   BBY.L    Balfour Beatty                   4 years
+2026-08-09T21:14:20Z  OK   BCG.L    Baltic Classifieds               4 years
+2026-08-09T21:14:21Z  OK   BAG.L    A.G. Barr                        4 years
+2026-08-09T21:14:23Z  OK   AJB.L    AJ Bell                          4 years
+2026-08-09T21:14:24Z  OK   BWY.L    Bellway                          3 years
+2026-08-09T21:14:26Z  OK   BOY.L    Bodycote                         4 years
+2026-08-09T21:14:27Z  OK   BREE.L   Breedon Group                    4 years
+2026-08-09T21:14:29Z  OK   BPT.L    Bridgepoint Group                4 years
+2026-08-09T21:14:30Z  OK   BYIT.L   Bytes Technology Group           4 years
+2026-08-09T21:14:32Z  OK   CCR.L    C&C Group                        4 years
+2026-08-09T21:14:39Z  FAIL CCL.L    Carnival Corporation & plc       empty income statement
+2026-08-09T21:14:41Z  OK   CWR.L    Ceres Power                      4 years
+2026-08-09T21:14:42Z  OK   CHG.L    Chemring Group                   4 years
+2026-08-09T21:14:44Z  OK   CSN.L    Chesnara                         4 years
+2026-08-09T21:14:44Z  ...progress 25/153 (ok 24, fail 1)
+2026-08-09T21:14:45Z  OK   CKN.L    Clarkson                         4 years
+2026-08-09T21:14:47Z  OK   CBG.L    Close Brothers Group             3 years
+2026-08-09T21:14:48Z  OK   CMCX.L   CMC Markets                      4 years
+2026-08-09T21:14:50Z  OK   COA.L    Coats Group                      4 years
+2026-08-09T21:14:51Z  OK   CCC.L    Computacenter                    4 years
+2026-08-09T21:14:53Z  OK   COST.L   Costain Group                    4 years
+2026-08-09T21:14:54Z  OK   CWK.L    Cranswick                        4 years
+2026-08-09T21:14:56Z  OK   CURY.L   Currys                           4 years
+2026-08-09T21:14:57Z  OK   CVSG.L   CVS Group                        3 years
+2026-08-09T21:14:59Z  OK   DSCV.L   discoverIE                       4 years
+2026-08-09T21:15:00Z  OK   DOM.L    Domino's Pizza                   4 years
+2026-08-09T21:15:02Z  OK   DRX.L    Drax Group                       4 years
+2026-08-09T21:15:04Z  OK   DOCS.L   Dr. Martens                      4 years
+2026-08-09T21:15:05Z  OK   DNLM.L   Dunelm Group                     4 years
+2026-08-09T21:15:07Z  OK   EZJ.L    EasyJet                          4 years
+2026-08-09T21:15:08Z  OK   ELM.L    Elementis                        4 years
+2026-08-09T21:15:10Z  OK   ENOG.L   Energean                         4 years
+2026-08-09T21:15:11Z  OK   EWG.L    Eurowag                          4 years
+2026-08-09T21:15:13Z  OK   FGP.L    FirstGroup                       4 years
+2026-08-09T21:15:14Z  OK   FSG.L    Foresight Group                  4 years
+2026-08-09T21:15:16Z  OK   FRAS.L   Frasers Group                    4 years
+2026-08-09T21:15:17Z  OK   FCH.L    Funding Circle                   4 years
+2026-08-09T21:15:19Z  OK   GFRD.L   Galliford Try                    4 years
+2026-08-09T21:15:20Z  OK   GAMA.L   Gamma Communications             4 years
+2026-08-09T21:15:22Z  OK   GBG.L    GB Group                         4 years
+2026-08-09T21:15:22Z  ...progress 50/153 (ok 49, fail 1)
+2026-08-09T21:15:24Z  OK   GEN.L    Genuit Group                     4 years
+2026-08-09T21:15:25Z  OK   GNS.L    Genus                            4 years
+2026-08-09T21:15:27Z  OK   GDWN.L   Goodwin                          4 years
+2026-08-09T21:15:28Z  OK   GFTU.L   Grafton Group                    4 years
+2026-08-09T21:15:30Z  OK   GRI.L    Grainger                         4 years
+2026-08-09T21:15:31Z  OK   UKW.L    Greencoat UK Wind                4 years
+2026-08-09T21:15:32Z  OK   GNC.L    Greencore                        4 years
+2026-08-09T21:15:34Z  OK   GRG.L    Greggs                           4 years
+2026-08-09T21:15:36Z  OK   HBR.L    Harbour Energy                   4 years
+2026-08-09T21:15:37Z  OK   HWG.L    Harworth Group                   4 years
+2026-08-09T21:15:39Z  OK   HAS.L    Hays                             3 years
+2026-08-09T21:15:40Z  OK   HTWS.L   Helios Towers                    4 years
+2026-08-09T21:15:42Z  OK   HIK.L    Hikma Pharmaceuticals            4 years
+2026-08-09T21:15:43Z  OK   HILS.L   Hill & Smith                     4 years
+2026-08-09T21:15:45Z  OK   HFG.L    Hilton Food Group                4 years
+2026-08-09T21:15:46Z  OK   HOC.L    Hochschild Mining                4 years
+2026-08-09T21:15:48Z  OK   BOWL.L   Hollywood Bowl Group             4 years
+2026-08-09T21:15:49Z  OK   HTG.L    Hunting                          4 years
+2026-08-09T21:15:51Z  OK   IBST.L   Ibstock                          4 years
+2026-08-09T21:15:52Z  OK   INCH.L   Inchcape                         4 years
+2026-08-09T21:15:54Z  OK   IHP.L    IntegraFin Holdings              4 years
+2026-08-09T21:15:55Z  OK   IPF.L    International Personal Finance   4 years
+2026-08-09T21:15:57Z  OK   INPP.L   International Public Partnership 4 years
+2026-08-09T21:15:58Z  OK   IWG.L    International Workplace Group    4 years
+2026-08-09T21:16:00Z  OK   INVP.L   Investec                         4 years
+2026-08-09T21:16:00Z  ...progress 75/153 (ok 74, fail 1)
+2026-08-09T21:16:02Z  OK   IPO.L    IP Group                         4 years
+2026-08-09T21:16:03Z  OK   ITH.L    Ithaca Energy                    4 years
+2026-08-09T21:16:05Z  OK   ITV.L    ITV                              4 years
+2026-08-09T21:16:06Z  OK   JMAT.L   Johnson Matthey                  4 years
+2026-08-09T21:16:08Z  OK   JSG.L    Johnson Service Group            4 years
+2026-08-09T21:16:09Z  OK   JTC.L    JTC                              4 years
+2026-08-09T21:16:11Z  OK   JUP.L    Jupiter Fund Management          4 years
+2026-08-09T21:16:12Z  OK   KNOS.L   Kainos                           4 years
+2026-08-09T21:16:14Z  OK   KLR.L    Keller Group                     4 years
+2026-08-09T21:16:15Z  OK   KIE.L    Kier Group                       3 years
+2026-08-09T21:16:17Z  OK   LRE.L    Lancashire Holdings              4 years
+2026-08-09T21:16:18Z  OK   MSLH.L   Marshalls                        4 years
+2026-08-09T21:16:20Z  OK   MEGP.L   ME Group International           4 years
+2026-08-09T21:16:21Z  OK   MTRO.L   Metro Bank                       4 years
+2026-08-09T21:16:23Z  OK   MAB.L    Mitchells & Butlers              4 years
+2026-08-09T21:16:24Z  OK   MTO.L    Mitie                            4 years
+2026-08-09T21:16:26Z  OK   MONY.L   MONY Group                       4 years
+2026-08-09T21:16:27Z  OK   MOON.L   Moonpig                          4 years
+2026-08-09T21:16:29Z  OK   MGAM.L   Morgan Advanced Materials        4 years
+2026-08-09T21:16:30Z  OK   MGNS.L   Morgan Sindall Group             4 years
+2026-08-09T21:16:32Z  OK   NCC.L    NCC Group                        3 years
+2026-08-09T21:16:33Z  OK   N91.L    Ninety One                       4 years
+2026-08-09T21:16:35Z  OK   OCDO.L   Ocado Group                      4 years
+2026-08-09T21:16:36Z  OK   OSB.L    OSB Group                        4 years
+2026-08-09T21:16:38Z  OK   OXB.L    Oxford Biomedica                 4 years
+2026-08-09T21:16:38Z  ...progress 100/153 (ok 99, fail 1)
+2026-08-09T21:16:39Z  OK   OXIG.L   Oxford Instruments               4 years
+2026-08-09T21:16:41Z  OK   ONT.L    Oxford Nanopore Technologies     4 years
+2026-08-09T21:16:42Z  OK   PAGE.L   PageGroup                        4 years
+2026-08-09T21:16:44Z  OK   PAF.L    Pan African Resources            4 years
+2026-08-09T21:16:45Z  OK   PAG.L    Paragon Banking Group            4 years
+2026-08-09T21:16:47Z  OK   PNN.L    Pennon Group                     4 years
+2026-08-09T21:16:48Z  OK   PETS.L   Pets at Home                     4 years
+2026-08-09T21:16:50Z  OK   PTEC.L   Playtech                         4 years
+2026-08-09T21:16:51Z  OK   PLUS.L   Plus500                          4 years
+2026-08-09T21:16:53Z  OK   POLN.L   Pollen Street Group              4 years
+2026-08-09T21:16:54Z  OK   PPH.L    PPHE Hotel Group                 4 years
+2026-08-09T21:16:56Z  OK   PFD.L    Premier Foods                    4 years
+2026-08-09T21:16:58Z  OK   PRN.L    Princes Group                    4 years
+2026-08-09T21:16:59Z  OK   QQ.L     Qinetiq                          4 years
+2026-08-09T21:17:00Z  OK   QLT.L    Quilter                          4 years
+2026-08-09T21:17:02Z  OK   RNK.L    Rank Group                       4 years
+2026-08-09T21:17:03Z  OK   RPI.L    Raspberry Pi Holdings            4 years
+2026-08-09T21:17:05Z  OK   RAT.L    Rathbones                        4 years
+2026-08-09T21:17:07Z  OK   RSW.L    Renishaw                         4 years
+2026-08-09T21:17:08Z  OK   RHIM.L   RHI Magnesita                    4 years
+2026-08-09T21:17:10Z  OK   ROR.L    Rotork                           4 years
+2026-08-09T21:17:11Z  OK   RS1.L    RS Group                         4 years
+2026-08-09T21:17:13Z  OK   SAGA.L   Saga                             4 years
+2026-08-09T21:17:14Z  OK   SVS.L    Savills                          4 years
+2026-08-09T21:17:16Z  OK   SNR.L    Senior                           4 years
+2026-08-09T21:17:16Z  ...progress 125/153 (ok 124, fail 1)
+2026-08-09T21:17:17Z  OK   SRP.L    Serco                            4 years
+2026-08-09T21:17:19Z  OK   SHAW.L   Shawbrook Bank                   3 years
+2026-08-09T21:17:20Z  OK   SRE.L    Sirius Real Estate               4 years
+2026-08-09T21:17:22Z  OK   SCT.L    Softcat                          3 years
+2026-08-09T21:17:23Z  OK   SPI.L    Spire Healthcare                 4 years
+2026-08-09T21:17:25Z  OK   SSPG.L   SSP Group                        4 years
+2026-08-09T21:17:26Z  OK   SYNC.L   Syncona                          4 years
+2026-08-09T21:17:28Z  OK   TATE.L   Tate & Lyle                      4 years
+2026-08-09T21:17:29Z  OK   TW.L     Taylor Wimpey                    4 years
+2026-08-09T21:17:31Z  OK   TBCG.L   TBC Bank                         4 years
+2026-08-09T21:17:33Z  OK   TEP.L    Telecom Plus                     4 years
+2026-08-09T21:17:34Z  OK   THG.L    THG                              4 years
+2026-08-09T21:17:36Z  OK   TCAP.L   TP ICAP                          4 years
+2026-08-09T21:17:37Z  OK   TRN.L    Trainline                        4 years
+2026-08-09T21:17:39Z  OK   TPK.L    Travis Perkins                   4 years
+2026-08-09T21:17:40Z  OK   TRST.L   Trustpilot                       4 years
+2026-08-09T21:17:42Z  OK   VSVS.L   Vesuvius                         4 years
+2026-08-09T21:17:43Z  OK   VCT.L    Victrex                          4 years
+2026-08-09T21:17:45Z  OK   VTY.L    Vistry Group                     4 years
+2026-08-09T21:17:46Z  OK   FAN.L    Volution Group                   3 years
+2026-08-09T21:17:48Z  OK   WOSG.L   Watches of Switzerland           4 years
+2026-08-09T21:17:50Z  OK   JDW.L    Wetherspoons                     3 years
+2026-08-09T21:17:51Z  OK   SMWH.L   WHSmith                          4 years
+2026-08-09T21:17:53Z  OK   WIX.L    Wickes                           4 years
+2026-08-09T21:17:54Z  OK   WIZZ.L   Wizz Air                         4 years
+2026-08-09T21:17:54Z  ...progress 150/153 (ok 149, fail 1)
+2026-08-09T21:17:56Z  OK   WPP.L    WPP                              4 years
+2026-08-09T21:17:57Z  OK   XPS.L    XPS Pensions                     4 years
+2026-08-09T21:17:59Z  OK   ZIG.L    Zigup                            4 years
+2026-08-09T21:18:00Z  Done. companies ok 152, failed 1, rows 598
