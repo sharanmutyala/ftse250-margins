@@ -4,8 +4,6 @@ This connects Power BI Desktop directly to the CSVs in this repo. Because it
 reads the raw GitHub URL, the dashboard refreshes to the latest data every time
 you hit Refresh, and the GitHub Action keeps that data current.
 
-Replace `YOURUSERNAME` below with your GitHub username throughout.
-
 ## 1. Populate the data once
 
 If you have not run the fetch yet, do it first so the CSVs are not empty:
