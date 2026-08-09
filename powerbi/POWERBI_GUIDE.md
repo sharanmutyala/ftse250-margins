@@ -21,7 +21,7 @@ Run workflow) and let it commit the data for you.
 
 1. Open Power BI Desktop. Home, Get Data, Web.
 2. Paste the raw URL of the history file:
-   `https://raw.githubusercontent.com/YOURUSERNAME/ftse250-margins/main/data/margins_history.csv`
+   `https://raw.githubusercontent.com/sharanmutyala/ftse250-margins/main/data/margins_history.csv`
 3. In the preview, click Transform Data to open Power Query.
 4. Confirm the column types: set `gross_margin`, `operating_margin`,
    `net_margin` to Decimal Number, `revenue` and the income columns to Decimal
