@@ -2,7 +2,9 @@
 
 An open-source pipeline that tracks profit margins across the FTSE 250, refreshed
 automatically from published financials and visualised in Power BI.
-
+-----------------------------------------------------------------------------------
+ ![FTSE 250 margin dashboard](dashboard1.png)
+ ![FTSE 250 margin dashboard](dashboard.png)
 Every operating company in the index gets its gross, operating and net margin
 computed from its annual income statement. A GitHub Action re-pulls the numbers
 every week and commits the updated data, so the dashboard is always current
